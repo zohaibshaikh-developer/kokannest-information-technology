@@ -53,7 +53,7 @@ const Hero = () => {
       </div> */}
       <EarthCanvas />
 
-      <div className="absolute xs:bottom-0 sm:bottom-[13%] xl:bottom-[11%] bottom-[20%]   w-full flex justify-center items-center flex-col">
+      <div className="absolute xs:bottom-0 sm:bottom-[13%] xl:bottom-[11%] bottom-[30%]   w-full flex justify-center items-center flex-col">
         <h1 className={`${isMobile} ? text-[380%] text-white : sm:text-[625%]  text-white`}>
           <span className="Blanka">Kokannest</span>
         </h1>

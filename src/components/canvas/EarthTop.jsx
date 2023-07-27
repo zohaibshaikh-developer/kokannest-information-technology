@@ -39,7 +39,7 @@ const Earth = ({isMobile}) => {
 
   const scaleValue = isMobile ? 0.95 : 1.4;
 
-  const positiony = isMobile ? 0.3 : 0.7;
+  const positiony = isMobile ? 0.9 : 0.7;
 
   return (
     <mesh>
